@@ -1,0 +1,22 @@
+.footer{
+  
+  position: fixed;
+  bottom: 0;
+  display: block;
+  width:100%;
+
+}
+
+.onlinestatus{
+  float: right;
+  margin-right: 8px;
+  padding:10px;
+  color:#fff;
+}
+
+.online{
+  background-color: green;
+}
+.offline{
+  background-color: red;
+}
